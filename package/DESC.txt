@@ -3,8 +3,7 @@ Overview
 
 Provides functions to store tuple data as JSON documents in Elasticsearch indices.
 
-* `Streaming Analytics service <https://console.ng.bluemix.net/catalog/services/streaming-analytics>`_
-* `IBM Streams developer community <https://developer.ibm.com/streamsdev/>`_
+* `IBM Streams <https://ibmstreams.github.io/>`_
 * `Compose for Elasticsearch <https://www.ibm.com/cloud/compose/elasticsearch>`_
 
 Documentation

@@ -9,11 +9,6 @@ Overview
 Provides classes and functions to store tuple data as JSON documents in Elasticsearch indices for use with Streaming Analytics service on
 IBM Cloud and IBM Streams including IBM Cloud Pak for Data.
 
- * `Streaming Analytics service <https://console.ng.bluemix.net/catalog/services/streaming-analytics>`_
- * `IBM Streams developer community <https://developer.ibm.com/streamsdev/>`_
- * `Compose for Elasticsearch <https://www.ibm.com/cloud/compose/elasticsearch>`_
-
-
 Credentials
 +++++++++++
 
@@ -47,7 +42,7 @@ The default configuration is "es", this can be set:
 
 """
 
-__version__='1.3.1'
+__version__='1.3.2'
 
 __all__ = ['Insert', 'download_toolkit', 'bulk_insert', 'bulk_insert_dynamic']
 from streamsx.elasticsearch._elasticsearch import Insert, download_toolkit, bulk_insert, bulk_insert_dynamic

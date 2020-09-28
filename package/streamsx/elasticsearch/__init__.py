@@ -42,7 +42,7 @@ The default configuration is "es", this can be set:
 
 """
 
-__version__='1.3.2'
+__version__='1.3.3'
 
 __all__ = ['Insert', 'download_toolkit', 'bulk_insert', 'bulk_insert_dynamic']
 from streamsx.elasticsearch._elasticsearch import Insert, download_toolkit, bulk_insert, bulk_insert_dynamic
